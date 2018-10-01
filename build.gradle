@@ -17,7 +17,7 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "0.2.2a"
+version = "0.3.1a"
 group = "lv.eugene.lomashonok.exchangecraft" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "ExchangeCraft"
 

@@ -3,7 +3,7 @@
   "modid": "exchangecraft",
   "name": "Exchange Craft",
   "description": "Exchange Craft is mod for converting blocks.",
-  "version": "0.2.2a",
+  "version": "0.3.1a",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
